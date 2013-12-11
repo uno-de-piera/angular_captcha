@@ -1,5 +1,5 @@
-<h1>Add a captcha in your form with AngularJS</h1>
-<h2>?How to use?</h2>
+<h1>Captcha in your forms with AngularJS</h1>
+<h2>¿How to use?</h2>
 <p>Create new view file and add the next code</p>
 ```html
 	<!DOCTYPE  html>
